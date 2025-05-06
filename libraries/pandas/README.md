@@ -22,5 +22,5 @@ To run the notebooks and scripts:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/pandas-learning.git
-   cd pandas-learning
+   git clone https://github.com/rishee-05/pandas.git
+   cd pandas
