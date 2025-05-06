@@ -62,4 +62,4 @@ Contributions are welcome! 👐 Whether you're new to Python or an experienced c
 
 1. 🖥️ Clone the repository to your local machine:
    ```bash
-   git clone https://github.com/rishee-05/python-learning.git
+   git clone https://github.com/rishee-05/PYTHON.git
